@@ -15,6 +15,9 @@ using namespace std;
     int sum = a+b;
     cout<<"SUM : "<<sum;
     cout<<"My name is Suhel saifi";
+
+    int multipy = a*b;
+    cout<<"MUltiply : "<<multiply;
     
     cout<<"HELLO Ji"<<endl;
     return 0;
