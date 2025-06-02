@@ -14,7 +14,8 @@ using namespace std;
     int a=5,b=6;
     int sum = a+b;
     cout<<"SUM : "<<sum;
+    cout<<"My name is Suhel saifi";
     
-    cout<<"HELLO Ji";
+    cout<<"HELLO Ji"<<endl;
     return 0;
  }
